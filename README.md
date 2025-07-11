@@ -8,7 +8,7 @@ Published in IEEE Access, 2025.
 
 ## 📄 Summary
 
-The paper compares deep learning (DL) and traditional machine learning (ML) approaches for detecting Distributed Denial of Service (DDoS) attacks in Internet of Things (IoT) environments. 
+The paper compares deep learning (DL) and traditional machine learning (ML) approaches for detecting Distributed Denial of Service (DDoS) attacks in Internet of Things (IoT) environments, focusing on resource and performance analysis. 
 
 ### Key Highlights:
 - **Dataset**: CICDDoS2019 (CSV and image formats)
@@ -41,13 +41,6 @@ environment, ensuring an optimal trade-off between accuracy, computational effic
 scalability considerations to enhance the effectiveness of
 IDS solutions in mitigating evolving cyber threats in IoT
 ecosystems.
-
-## 📁 Files
-
-- `paper_summary.md`: Detailed summary of Abstract, Introduction, and Methodology
-- `figures/`: Key figures and charts from the paper
-- `data/`: Notes on the CICDDoS2019 dataset
-- `code/`: Placeholder for model code and evaluation scripts
 
 ## 🧠 Authors
 
