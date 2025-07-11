@@ -53,3 +53,9 @@ This summary is provided for academic and research purposes only. Refer to the o
 ## 📎 Reference
 
 IEEE Access. DOI: [10.1109/ACCESS.2025.3583855](https://doi.org/10.1109/ACCESS.2025.3583855)
+
+**Citation:**
+> A. Abulhassan, I. Rashid, M. Imam and F. Binbeshr, "DDoS Attack Detection in IoT: A Comparative Resource and Performance Analysis of Deep Learning and Machine Learning Models," in IEEE Access, doi: 10.1109/ACCESS.2025.3583855.
+
+**Keywords:**
+Accuracy; Internet of Things; Machine learning; Security; Denial-of-service attack;  Computational modeling; Measurement; Feature extraction; Real-time systems; Lightweight IDS; Distributed Denial of Service (DDoS); Internet of Things (IoT)
