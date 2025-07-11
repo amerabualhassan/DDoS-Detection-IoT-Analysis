@@ -17,8 +17,30 @@ The paper compares deep learning (DL) and traditional machine learning (ML) appr
 - **Metrics Evaluated**: Accuracy, Precision, Recall, AUC, Inference Time, CPU and Memory Usage
 
 ### Conclusions:
-- **Deep Learning** provides high accuracy but is slower.
-- **Machine Learning** models are faster and more efficient, better for real-time IoT applications.
+This study demonstrates how CNN architectures such as MobileNetV3 and EfficientNetB0 can be leveraged to construct
+a lightweight IDS optimized for resource-constrained IoT
+environments. The proposed approach shows strong potential
+for real-world applications, particularly in scenarios where
+computational efficiency is critical.
+Through a comparative analysis of deep learning and
+traditional machine learning models, the study concludes
+that lightweight deep learning architectures, such as MobileNetV3 and EfficientNetB0, provide a superior balance
+between accuracy and computational cost. However, despite
+their resource optimizations, their inference times remain too
+high for strict real-time applications. Thus, these models are
+more suitable for high-accuracy scenarios where inference
+latency is acceptable rather than for real-time detection systems.
+While traditional machine learning models demonstrate
+high efficiency with minimal resource consumption, they
+exhibit lower accuracy compared to lightweight CNNs. However, their significantly faster inference times make them
+better candidates for real-time IDS deployment. Conversely,
+lightweight CNNs achieve superior DDoS detection with
+minimal retraining requirements and optimized resource utilization, making them well-suited for non-real-time IoT applications.
+The findings highlight the importance of selecting models based on the specific requirements of the deployment
+environment, ensuring an optimal trade-off between accuracy, computational efficiency, and resource constraints. Future research should explore real-world implementations and
+scalability considerations to enhance the effectiveness of
+IDS solutions in mitigating evolving cyber threats in IoT
+ecosystems.
 
 ## 📁 Files
 
